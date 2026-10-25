@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm Pruthviraj Mane</h1>
+<h1 align="left">Hi 👋, I'm Pruthviraj Mane</h1>
 
-<h3 align="center">Product Designer • Creative Developer • Building Digital Experiences</h3>
+<h3 align="left">Product Designer • Creative Developer • Building Digital Experiences</h3>
 
-<p align="center">
+<p align="left">
   I design products, experiment with code, and build tools that solve real-world problems.
   <br />
   Interested in the intersection of design, technology, AI, and human behavior.
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://www.pruthvirajmane.com/">Portfolio</a> •
   <a href="https://www.linkedin.com/">LinkedIn</a> •
   <a href="https://github.com/">GitHub</a>
