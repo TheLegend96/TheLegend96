@@ -10,8 +10,8 @@
 
 <p align="left">
   <a href="https://www.pruthvirajmane.com/">Portfolio</a> •
-  <a href="https://www.linkedin.com/">LinkedIn</a> •
-  <a href="https://github.com/">GitHub</a>
+  <a href="https://www.linkedin.com/in/pruthvirajmane/">LinkedIn</a> •
+  <a href="https://github.com/TheLegend96/">GitHub</a> •
 </p>
 
 ---
