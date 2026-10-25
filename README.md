@@ -16,29 +16,29 @@
 
 ---
 
-## 🚀 What I'm Building
+## What I'm Building
 
 - **AI-powered tools** — Experimenting with AI to make everyday workflows faster and more intuitive.
 - **Portfolio Experiments** — Building interactive experiences that bring product design and development together.
 - **Design Systems** — Exploring reusable components, scalable interfaces, and better design-to-code workflows.
 - **Useful Side Projects** — Creating small, practical tools that solve problems I encounter in everyday life.
 
-## 🧑‍💻 About Me
+## About Me
 
-- 🎨 Product Designer by choice, developer by hobby.
-- 🧠 Passionate about UX, interaction design, and human-centered technology.
-- 🤖 Exploring AI integrations, LLMs, and AI-powered product experiences.
-- 🛠️ Working with Figma, Framer, React, HTML, CSS, and modern AI tools.
-- 🌱 Constantly learning by building, experimenting, and sharing.
-- 💬 Always happy to talk about product design, AI, creative coding, and startups.
+- Product Designer by choice, developer by hobby.
+- Passionate about UX, interaction design, and human-centered technology.
+- Exploring AI integrations, LLMs, and AI-powered product experiences.
+- Working with Figma, Framer, React, HTML, CSS, and modern AI tools.
+- Constantly learning by building, experimenting, and sharing.
+- Always happy to talk about product design, AI, creative coding, and startups.
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=figma,html,css,js,ts,react,tailwind,git,github,vscode" alt="Tools and technologies" />
 </p>
 
-## 📌 Featured Projects
+## Featured Projects
 
 ### 01. Portfolio & Interactive Experiments
 A playground for product design, interactive interfaces, and experiments at the intersection of design and code.
@@ -55,7 +55,7 @@ Small tools, prototypes, and utilities built to explore ideas and solve practica
 
 🔗 [Browse my projects](https://github.com/)
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=default" alt="GitHub statistics" />
@@ -65,14 +65,14 @@ Small tools, prototypes, and utilities built to explore ideas and solve practica
   <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
-## 🎯 Current Focus
+## Current Focus
 
 - Building useful AI-powered applications.
 - Exploring creative coding and interactive web experiences.
 - Improving my development skills through practical projects.
 - Finding better ways to connect design thinking with implementation.
 
-## 🤝 Let's Connect
+## Let's Connect
 
 I'm always interested in exchanging ideas, exploring collaborations, and building things that make a difference.
 
